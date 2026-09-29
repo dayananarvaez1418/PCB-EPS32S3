@@ -1,0 +1,24 @@
+﻿Item,Designadores,Cantidad,Descripción,Valor / Parte,Encapsulado,Fabricante,N° parte fabricante,LCSC
+1,U1,1,"Módulo WiFi/BLE ESP32-S3, 16MB flash, 8MB PSRAM",ESP32-S3-WROOM-1-N16R8,WIRELM-SMD_ESP32-S3-WROOM-1,Espressif,ESP32-S3-WROOM-1-N16R8,C2913202
+2,U2,1,Sensor de temperatura y humedad I2C,SHT31A-DIS-B2.5KS,DFN-8_L2.5-W2.5-P0.50,Sensirion,SHT31A-DIS-B2.5KS,C3664366
+3,U3,1,RTC (reloj de tiempo real) I2C,DS3231N,SO-16 (10.3x7.5mm),Analog Devices / Maxim,DS3231N,C9900010264
+4,U4,1,Convertidor USB a UART,CP2102N-A01-GQFN28,QFN-28 (5x5mm),Silicon Labs,CP2102N-A01-GQFN28R,C105167
+5,U9,1,Regulador LDO 3.3V,SGM2212-3.3XKC3G/TR,SOT-223-4,SGMICRO,SGM2212-3.3XKC3G/TR,C9900018517
+6,"U5, U6, U8",3,Diodo TVS/ESD de protección,BNLESD5D5.0CT1G,SOD-523,BORN,BNLESD5D5.0CT1G,C20416613
+7,U7,1,Diodo Schottky 1A / 40V,B5819W-SMA,SOD-123,-,B5819W-SMA,C9900009049
+8,"Q1, Q2",2,Transistor NPN (auto-reset/boot),BC818-40LT1G,SOT-23-3,onsemi,BC818-40LT1G,C154797
+9,D5,1,LED rojo,19-217/R6C-AL1M2VY/3T,LED0603,Everlight,19-217/R6C-AL1M2VY/3T,C72044
+10,USB1,1,Conector USB Tipo-C SMD,USB4105-GF-A,TYPE-C-SMD_SBC-160S1A-20-S412,GCT,USB4105-GF-A,C3020560
+11,B1,1,Portapilas CR1220 (batería RTC),CR1220-2,BAT-SMD_CR1220-2,QIJEY,CR1220-2,C70381
+12,S2,1,Pulsador SMD (BOOT/RESET),TL1014AFXXX,SW-SMD_E-SWITCH_TL1014AFXXX,E-Switch,TL1014AF,Pendiente
+13,C1,1,Condensador cerámico 1uF 50V,1uF,C0603,-,-,Pendiente
+14,"C2, C12",2,Condensador cerámico 10uF (25V / 10V),10uF,C0603,-,-,Pendiente
+15,"C7, C9",2,Condensador cerámico 2.2uF 50V,2.2uF,C0603,-,-,Pendiente
+16,"C4, C5, C8, C10, C11, C30",6,Condensador cerámico 100nF (0.1uF),100nF,C0603,-,-,Pendiente
+17,"R1, R5, R6",3,Resistencia 0 ohm,0R,R0603,-,-,Pendiente
+18,"R3, R4, R12, R16, R20, R21, R22, R25, R27",9,Resistencia 10k ohm,10k,R0603,-,-,Pendiente
+19,"R9, R10",2,Resistencia 5.1k ohm (CC del USB-C),5.1k,R0603,-,-,Pendiente
+20,R11,1,Resistencia 1k ohm (LED),1k,R0603,-,-,Pendiente
+21,R13,1,Resistencia 22.1k ohm 1%,22.1k,R0603,-,-,Pendiente
+22,R14,1,Resistencia 47.5k ohm 1%,47.5k,R0603,-,-,Pendiente
+23,R15,1,Resistencia 2k ohm,2k,R0603,-,-,Pendiente
